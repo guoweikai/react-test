@@ -68,3 +68,77 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+## react 和 reactdom 之间的区别
+
+
+## react 属性说明:
+Children
+Component
+Fragment
+Profiler
+PureComponent
+StrictMode
+Suspense
+cloneElement
+createContext
+createElement
+createFactory
+createRef
+forwardRef
+isValidElement
+lazy
+memo
+startTransition
+unstable_act
+useCallback
+useContext
+useDebugValue
+useDeferredValue
+useEffect
+useId
+useImperativeHandle
+useInsertionEffect
+useLayoutEffect
+useMemo
+useReducer
+useRef
+useState
+useSyncExternalStore
+useTransition
+### 
+
+## react-dom 属性说明: 
+
+
+## react-router
+
+
+### 组件实例和虚拟 dom 之间的关系
+
+
+组件实例和虚拟 dom 是一一应对的
+
+
+
+### 组件的实例是由 react 来管理的
+
+实例对象包括那几部分呢?
+
+组件实例的属性和方法:
+
+ context
+ props:{name,age,children}  children的意义
+ state 
+
+
+
+
+天生支持嵌套
+
+
+
