@@ -135,10 +135,6 @@ useTransition
  props:{name,age,children}  children的意义
  state 
 
-
-
-
-天生支持嵌套
-
+两个自定义组件的嵌套
 
 
