@@ -14,7 +14,6 @@ const data =
       <App />
     </BrowserRouter>
   </React.StrictMode>
-// console.log('vnode', data);
 root.render(data);
 
 // If you want to start measuring performance in your app, pass a function
