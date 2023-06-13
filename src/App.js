@@ -5,8 +5,6 @@ import MyRouter1 from './router/router1';
 import MyRouter2 from './router/router2';
 import MyRouter3 from './router/router3';
 import MyRouter4 from './router/router4';
-import MyComponent from './component/MyComponent';
-import MyRef from "./component/MyRef"
 
 
 function App() {
